@@ -1,0 +1,16 @@
+key = "a522e6871e914c1f894db5319c721698"
+OPENAI_API_KEY = "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"
+SERP_API_KEY = "4352051a95da468bff0dd9c50bd39c1335ef1c8f2e71087c71090298c77baa01"
+
+
+# Connection with db
+SQL_SERVER_USERNAME = "sqlserver"
+SQL_SERVER_ENDPOINT = "chatbotserver456"
+SQL_SERVER_PASSWORD = "chatbot@123"  
+SQL_SERVER_DATABASE = "chatdb"
+
+#Setup with Langsmith
+LANGCHAIN_TRACING_V2="true"
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGCHAIN_API_KEY="ls__5f6a9d385eb34f968bca04860abcf8c4"
+LANGCHAIN_PROJECT="Log Analysis"
